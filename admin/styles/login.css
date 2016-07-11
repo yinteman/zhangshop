@@ -1,0 +1,4 @@
+body{padding: 0px;margin: 0px;}
+#container{width:600px;height: 800px;margin:10px 480px;position:absolute;}
+#logo{height: 76px;background-color: black;}
+#table_content{position: absolute;height:300px; width:600px;margin-top: 5px;}
